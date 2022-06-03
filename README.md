@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Hyeonjin-ee/Hyeonjin-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"/> 🌱 Hyeonjin_Kim
+<br><br><br>
+<h3 align="center"> Studying 📚 <h3/>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-43a9e3?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-6f8eec?style=flat-square&logo=MYSQL&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Java-142d97?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-76cd51?style=flat-square&logo=Springboot&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/React-81e9ef?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-e5e458?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6ac841?style=flat-square&logo=Node.js&logoColor=white"/>
+  
