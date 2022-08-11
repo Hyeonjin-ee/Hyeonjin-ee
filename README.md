@@ -13,8 +13,11 @@
   <img src="https://img.shields.io/badge/React-81e9ef?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-e5e458?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6ac841?style=flat-square&logo=Node.js&logoColor=white"/>
+  <br><br><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonjin-ee&layout=compact)](https://github.com/Hyeonjin-/github-readme-stats)
+  ![Hyeonjin's github stats](https://github-readme-stats.vercel.app/api?username=Hyeonjin-ee&show_icons=true&theme=gotham)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonjin-ee&layout=compact&theme=gotham)
+
   
   <br><br><br>
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hyeonjin-ee&bg_color=333833&color=6cd997&line=6cd997&point=228749&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
