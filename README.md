@@ -14,3 +14,6 @@
   <img src="https://img.shields.io/badge/JavaScript-e5e458?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6ac841?style=flat-square&logo=Node.js&logoColor=white"/>
   
+  <br><br><br>
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hyeonjin-ee&bg_color=333833&color=6cd997&line=6cd997&point=228749&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
