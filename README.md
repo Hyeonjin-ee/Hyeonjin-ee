@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=49b675&type=Egg&height=200&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?color=49b675&text=Hyoenjin's%20GitHub&fontColor=333833&stroke=ffffff&type=shark&height=200&&fontAlignY=70)
 
 <br><br><br>
 <h3 align="center"> Studying 📚 <h3/>
