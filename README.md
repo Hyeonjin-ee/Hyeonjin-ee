@@ -1,4 +1,5 @@
-<h2 align="center"/> 🌱 Hyeonjin_Kim
+![header](https://capsule-render.vercel.app/api?color=49b675&type=Egg&height=200&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 <br><br><br>
 <h3 align="center"> Studying 📚 <h3/>
 <br>
