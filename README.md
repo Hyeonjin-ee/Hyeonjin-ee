@@ -6,9 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-2E51A2?style=fla&logo=MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-142d97?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-81e9ef?style=flat&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-e5e458?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
 </p>
   <br><br>
   
