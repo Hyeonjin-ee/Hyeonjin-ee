@@ -20,11 +20,9 @@
   #
   
 <p align="center">
-    <a href="https://github.com/Hyeonjin-ee">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeonjin-ee&show_icons=true&theme=gotham"/>
-     </a>
   <a href="https://github.com/Hyeonjin-ee">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonjin-ee&layout=compact&theme=gotham"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeonjin-ee&show_icons=true&theme=gotham"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonjin-ee&layout=compact&theme=gotham"/>
   </a>
 </p>
   
